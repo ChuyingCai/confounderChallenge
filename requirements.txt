@@ -1,0 +1,9 @@
+# For Quarto Python chunks: create .venv, then `pip install -r requirements.txt`
+# (see _environment: QUARTO_PYTHON is only set from _environment if not already in your shell.)
+numpy
+pandas
+matplotlib
+PyYAML
+nbformat
+notebook
+ipykernel

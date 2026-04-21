@@ -1,0 +1,3 @@
+# Used when QUARTO_PYTHON is not already set in your shell (shell wins if set).
+# Activate the project venv first, or rely on this path for `quarto render`.
+QUARTO_PYTHON=.venv/bin/python
